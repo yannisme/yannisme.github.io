@@ -45,4 +45,4 @@ You can install these themes by **<u>Composer</u>** command. If you want to cust
 ### Feedback
 
 - You can submit issues on **<u>Github</u>**
-- Leaving a Message at <u>**Community Forum**</u> OR <u>**[Demo Site](https://yannis.in/)**</u>  
+- Leaving a Message at **<u>Community Forum</u>** OR **<u>[Demo Site](https://yannis.in/)</u>**  
