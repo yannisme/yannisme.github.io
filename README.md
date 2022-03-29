@@ -1,26 +1,48 @@
-欢迎光临,这个页面还没有被修缮,  
-因为种种原因,可能要拖到8月份来完善,  
-再此之前,先来看看有什么你喜欢的域名吧,欢迎留言联系购买哦!
+### YANNISME.COM
 
-### 米表
+Welcome to my personal site,
 
-| **域名**            | **备注**                                           | **注册时间** |
-| :------------------ | :------------------------------------------------- | ------------ |
-| windows11.fan       | Windows11                                          | 2021-06-26   |
-| windows11update.xyz | Windows11更新                                      | 2021-06-26   |
-| iii.sale            | 字面意思，就是说3A域名                             | 2017-08-18   |
-| 7r.pw               | 7天的寓意，用来写个人日记，不过后来转到了pet域名下 | 2017-08-18   |
-| hui.pw              | 慧/会/烩/惠品味... 意思可以很多                    | 2017-07-27   |
-| oxo.fan             | 熊熊🐻粉                                            | 2020-11-30   |
-| ovo.fan             | 😀饭，开心                                          | 2020-11-30   |
-| acfun.cool          | 曾经的AC饭，也是为了纪念一个人                     | 2018-02-09   |
-| dilidili.pro        | 自从大D站创始人被抓后，也是为了纪念吧              | 2020-11-27   |
-| hexo.pro            | hexo,hexo商业,hexo高级                             | 2020-08-17   |
-| roms.top            | roms,rom,roms拓扑                                  | 2019-08-30   |
-| esotalk.cn          | 纪念esotalk和迎接新的Flarum                        | 2020-10-16   |
-| eo.gs               | 希望有个短小精悍的域名做邮箱和跳转地址             | 2019-12-30   |
-| tep.pet             | ABC.CBA形式域名，个人日常记录使用                  | 2019-09-26   |
-| aliyundrive.xyz     | 阿里云，阿里云盘                                   | 2020-08-28   |
-| aliyp.cn            | 阿里云，阿里云盘缩写，希望有人可以合作             | 2020-08-27   |
-| minecraftcn.net     | MC，我的世界，我的世界中文站                       | 2019-07-24   |
-| stcn.xyz            | steam中国                                          | 2018-06-14   |
+People who has political and discriminatory elements and prejudices are not welcome here.
+
+------
+
+### Flarum Themes
+
+You can install these themes by **<u>Composer</u>** command. If you want to customize it, you can Check it out the sources on Github.  
+
+ [yannisme](https://github.com/yannisme)/**[flarum-confix-theme](https://github.com/yannisme/flarum-confix-theme)**
+
+![GitHub](https://img.shields.io/github/license/yannisme/flarum-confix-theme?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/yannisme/flarum-confix-theme?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yannisme/flarum-confix-theme?style=flat-square) ![Packagist Downloads](https://img.shields.io/packagist/dt/yannisme/confixtheme?style=flat-square) 
+
+![CONFIX.PNG](https://s2.loli.net/2022/03/29/xZSgrqB9ka7Y2Uf.jpg)
+
+------
+
+[yannisme](https://github.com/yannisme)/**[flarum-oxo-theme](https://github.com/yannisme/flarum-oxo-theme)**
+
+![GitHub](https://img.shields.io/github/license/yannisme/flarum-oxo-theme?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/yannisme/flarum-oxo-theme?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yannisme/flarum-oxo-theme?style=flat-square) ![Packagist Downloads](https://img.shields.io/packagist/dt/yannisme/oxotheme?style=flat-square)
+
+![OXO.PNG](https://s2.loli.net/2022/03/29/eMcTXdhASij2Upf.jpg)
+
+------
+
+[yannisme](https://github.com/yannisme)/**[flarum-cn-theme](https://github.com/yannisme/flarum-cn-theme)**
+
+![GitHub](https://img.shields.io/github/license/yannisme/flarum-cn-theme?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/yannisme/flarum-cn-theme?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yannisme/flarum-cn-theme?style=flat-square) ![Packagist Downloads](https://img.shields.io/packagist/dt/yannisme/cntheme?style=flat-square)
+
+![CN.PNG](https://s2.loli.net/2022/03/29/QtDLsFWNj7lqaM8.jpg)
+
+------
+
+[yannisme](https://github.com/yannisme)/**[flarum-paper-theme](https://github.com/yannisme/flarum-paper-theme)**
+
+![GitHub](https://img.shields.io/github/license/yannisme/flarum-paper-theme?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/yannisme/flarum-paper-theme?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yannisme/flarum-paper-theme?style=flat-square) ![Packagist Downloads](https://img.shields.io/packagist/dt/yannisme/papertheme?style=flat-square)
+
+![PAPER.PNG](https://s2.loli.net/2022/03/29/RE3851XDCKHoSA4.jpg)
+
+------
+
+### Feedback
+
+- You can submit issues on **<u>Github</u>**
+- Leaving a Message at <u>**Community Forum**</u> OR <u>**[Demo Site](https://yannis.in/)**</u>  
