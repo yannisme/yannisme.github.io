@@ -2,6 +2,8 @@
 
 Welcome to my personal site,
 
+Persistence and selfless dedication may be the biggest problem of our time!
+
 People who has political and discriminatory elements and prejudices are not welcome here.
 
 ------
